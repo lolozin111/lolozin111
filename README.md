@@ -44,9 +44,7 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lolozin111&show_icons=true&theme=tokyonight&hide_border=true" alt="Carlos's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolozin111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=lolozin111&theme=tokyonight&hide_border=true" />
 
 ---
 
